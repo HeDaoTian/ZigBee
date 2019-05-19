@@ -1,0 +1,2 @@
+SerialSoftware(Included in Arduino IDE): allows serial communication on other digital pins of the Arduino, using software to replicate the functionality
+xbee-arduino-master: Provides communication functions among XBee devices.
